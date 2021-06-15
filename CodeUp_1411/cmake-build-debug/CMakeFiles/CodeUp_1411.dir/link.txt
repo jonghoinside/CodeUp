@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/CodeUp_1411.dir/main.c.o  -o CodeUp_1411 

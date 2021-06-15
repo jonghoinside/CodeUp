@@ -1,0 +1,3 @@
+/mnt/c/Users/ajh07/Desktop/Github portfolio/CodeUp/CodeUp_1411/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ajh07/Desktop/Github portfolio/CodeUp/CodeUp_1411/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ajh07/Desktop/Github portfolio/CodeUp/CodeUp_1411/cmake-build-debug/CMakeFiles/CodeUp_1411.dir
