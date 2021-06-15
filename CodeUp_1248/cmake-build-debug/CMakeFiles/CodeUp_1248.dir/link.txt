@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CodeUp_1248.dir/main.c.o  -o CodeUp_1248 
